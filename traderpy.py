@@ -30,3 +30,4 @@ def StockVal(curPrice, EV, netDebt, Shares):
         print("stock may be overvalued at the moment")
 
 StockVal(curPrice, EV, netDebt, Shares)
+#https://chandlerzuo.github.io/blog/2017/11/darnn
